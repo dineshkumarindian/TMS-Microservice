@@ -1,0 +1,19 @@
+
+u
+java:S2293±"YReplace the type specification in this constructor call with the diamond operator ("<>").(ù—ÑÔúÿÿÿÿ
+u
+java:S2293¶"YReplace the type specification in this constructor call with the diamond operator ("<>").(ù—ÑÔúÿÿÿÿ
+p
+java:S1192@"ZDefine a constant instead of duplicating this literal "account does not exist !!" 3 times.(§ë‘à
+~
+java:S1192®"hDefine a constant instead of duplicating this literal "AuthController(getAdminPassword)>> Exit" 3 times.(û´§u
+j
+java:S1192I"TDefine a constant instead of duplicating this literal "login successful !!" 3 times.(¾Ô“ñ
+q
+java:S1192R"VDefine a constant instead of duplicating this literal "invalid credential !!" 3 times.(‘´ˆ«ùÿÿÿÿ
+k	java:S117p"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À¦¦òûÿÿÿÿ
+g	java:S117“"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì–Ü³
+Y
+java:S1854­"=Remove this useless assignment to local variable "adminData".(Ï‘´üÿÿÿÿ
+J
+java:S1481­".Remove this unused "adminData" local variable.(Ï‘´üÿÿÿÿ
